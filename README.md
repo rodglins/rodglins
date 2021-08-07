@@ -15,8 +15,8 @@ WebDev
 Python
 
 - Exercícios
-- Fundamentos
 - Notebooks
+- Projetos
 
 
 
