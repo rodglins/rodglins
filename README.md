@@ -38,6 +38,7 @@ SQL databases
 ETL
 
 - Pentaho
+- Python
 
 
 
