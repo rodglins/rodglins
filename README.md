@@ -56,18 +56,18 @@ Python
 
 - Desafios
 - Exercícios
-- MachineLearning
+- Machine Learning
 - Projetos
 - Segurança
 - Virtual Env
 
 R Language
 
-- Analise Diabetes
-- Analise GovBr
+- Análise Diabetes
+- Análise GovBr
 - Análise Dados Aviação
 - Desafios
-- Intro (Exercicios)
+- Intro (Exercícios)
 
 REST
 
