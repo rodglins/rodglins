@@ -5,48 +5,92 @@
 - 📫 How to reach me : rodglins@gmail.com
 
 # Índice:
-WebDev
 
-- Projeto Micatec
-- Desafios Cellep
+AWS Cloud
 
+Azure Cloud 
+ - Data Factory
 
-
-Python
-
-- Exercícios
-- Notebooks
-- Projetos
-
-
-
-NoSQL databases
-
-- Cassandra
-- Neo4j
-- Redis
-- MongoDB
-
-
-
-SQL databases
-
-- PostgreSQL
-
-
+Docker
 
 ETL
 
 - Pentaho
 - Python
 
+CGP Cloud
 
+Hadoop
+
+Hive
+
+Impala
+
+ISIS
+  - WWWIsis
+
+
+Kafka
+
+MicroStrategy
+
+MIT APP Inventor
+
+NoSQL databases
+
+- Cassandra
+- HBase
+- MongoDB
+- Neo4j
+- Redis
+
+Orange
+
+PHP
+ - Digital-cep
+ - projeto-qualquer
+
+Portugol
+
+Python
+
+- Desafios
+- Exercícios
+- MachineLearning
+- Projetos
+- Segurança
+- Virtual Env
 
 R Language
 
-- AnaliseDiabetes
-- AnaliseGovBr
-- Intro
+- Analise Diabetes
+- Analise GovBr
+- Análise Dados Aviação
+- Desafios
+- Intro (Exercicios)
+
+REST
+
+Scratch
+
+SOAP
+
+Spark
+
+SQL databases
+
+- Oracle
+- PostgreSQL
+
+Visual Basic
+
+WebDev
+
+- Projeto Micatec
+- Desafios Cellep
+  - hackathon_Loja
+- Projeto Biblioteca Virtual realizado em 2007.
+
 
 <!---
 rodglins/rodglins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
