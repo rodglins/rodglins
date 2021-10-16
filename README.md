@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodglins
-- 👀 I’m interested in Information Science, Data Science and Data Basis
-- 🌱 I’m currently learning Data engineering 
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 I’m interested in Information Science, Data Science, Data Engineer, Data Analysis
+- 🌱 I’m currently learning Data Engineer and Data Science. 
+- 💞️ I’m looking to collaborate on Data Projects.
 - 📫 How to reach me : rodglins@gmail.com
 
 # Índice:
