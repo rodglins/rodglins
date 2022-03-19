@@ -50,6 +50,8 @@ PHP
  - Digital-cep
  - projeto-qualquer
 
+Pig
+
 Portugol
 
 Python
