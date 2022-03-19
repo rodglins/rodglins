@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodglins
+- 👋 Hi, I’m @rodglins, Data Engineer
 - 👀 I’m interested in Information Science, Data Science, Data Engineer, Data Analysis
 - 🌱 I’m currently learning Data Engineer and Data Science. 
 - 💞️ I’m looking to collaborate on Data Projects.
